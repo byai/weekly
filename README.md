@@ -6,6 +6,6 @@
 
 ## 2022
 
-### 五月
-
+### 六月
+* [第 2 期： NodeJS 18 Fetch API、Pure vs Impure Functions、Sessions vs JWTs、Is Vite Better than Webpack](./docs/doc-0002.md)
 * [第 1 期： NodeJS 18 Fetch API、Pure vs Impure Functions、Sessions vs JWTs、Is Vite Better than Webpack](./docs/doc-0001.md)
